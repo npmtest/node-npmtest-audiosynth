@@ -1,4 +1,7 @@
-# test coverage for  [audiosynth (v0.0.5)](https://github.com/marcwilhite/audiosynth)  [![npm package](https://img.shields.io/npm/v/npmtest-audiosynth.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-audiosynth) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-audiosynth.svg)](https://travis-ci.org/npmtest/node-npmtest-audiosynth)
+# npmtest-audiosynth
+
+#### basic test coverage for  [audiosynth (v0.0.5)](https://github.com/marcwilhite/audiosynth)  [![npm package](https://img.shields.io/npm/v/npmtest-audiosynth.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-audiosynth) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-audiosynth.svg)](https://travis-ci.org/npmtest/node-npmtest-audiosynth)
+
 #### JavaScript Audio Synthesizer
 
 [![NPM](https://nodei.co/npm/audiosynth.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/audiosynth)
